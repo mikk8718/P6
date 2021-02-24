@@ -1,1 +1,1 @@
-# P6
+# P6 Semester project repository
